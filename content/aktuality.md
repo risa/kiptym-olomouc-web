@@ -12,3 +12,5 @@ menu:
 * **1.1. 2012** – Oficiální zahájení činnosti KIP týmu.
 * **31.1. 2012** –  Čtvrté setkání KIP týmu.
 * **1.2. 2012** – Dokončení a oficiální spuštění webových stránek.
+
+{{< warning >}}

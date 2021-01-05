@@ -40,3 +40,6 @@ Vznikla tak zcela jedinečná spolupráce. Následuje výčet neziskových organ
 * [Český červený kříž](http://www.cervenykriz.eu/cz/cz_root.aspx)
 * [Pomáháme pomáhat](http://www.pomahamepomahat.cz/akce.html)
 * [E-Bezpečí](http://www.e-bezpeci.cz/)
+
+
+{{< warning >}}

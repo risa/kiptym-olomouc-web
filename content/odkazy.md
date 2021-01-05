@@ -23,3 +23,6 @@ menu:
 * [Dlouhá cesta](http://www.dlouhacesta.cz/) - sdružení rodičů, kterým zemřelo dítě,
 * [Nedoklubko](http://nedoklubko.cz/) je celorepublikové občanské sdružení, jehož cílem je pomoc předčasně narozeným dětem a jejich rodinám,
 * [České sdružení obětí dopravních nehod](http://www.csodn.cz/) se zaměřuje na poskytování pomoci obětem dopravních nehod.
+
+
+{{< warning >}}

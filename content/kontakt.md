@@ -8,3 +8,4 @@ menu:
 Kontaktovat nás můžete na společné emailové adrese koordinátorů:
 koordinator@kip-olomouc.cz
 
+{{< warning >}}

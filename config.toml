@@ -2,3 +2,11 @@ languageCode = "cs_CZ"
 title = "Kip tým Olomouc"
 
 theme = "eclectic"
+
+[markup]
+defaultMarkdownHandler = "goldmark"
+
+[markup.goldmark.renderer]
+hardWraps = false
+unsafe = true
+xhtml = false
