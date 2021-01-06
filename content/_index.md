@@ -1,8 +1,8 @@
 ---
 title: "O nás"
 menu:
-main:
-weight: 0
+    main:
+        weight: 1
 ---
 
 *Členové KIP týmů fungují v rámci akreditovaného programu Ministerstva vnitra „KIP týmy pro mimořádné události“.
